@@ -44,6 +44,7 @@ Pacman-Game/
 ├── README.md
 └── .gitignore
 ```
+---
 
 ## 🎮 Gameplay Overview
 
